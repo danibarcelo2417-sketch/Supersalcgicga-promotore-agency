@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://supersalchicha1promotore.com/sitemap.xml
